@@ -1,6 +1,7 @@
 # Dataeng-zoomcamp Cohort 2025
 This notebook is dedidicated for collecing notes on learning Data Engineering concepts via dataeng-zoomcamp cohort 2025. My official start date is January 25, 2025.
 
+> Since I am on a mac, here is a mac terminal [cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet?tab=readme-ov-file#english-version).
 
 
 ## Module 1 Docker + Postgress
